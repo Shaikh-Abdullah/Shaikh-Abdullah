@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Abdullah Shaikh  
 
+![Profile Views](https://komarev.com/ghpvc/?username=Shaikh-Abdullah&label=Profile%20Views&color=0e75b6&style=flat)  
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Shaikh-Abdullah.Shaikh-Abdullah)  
+
 🚀 A passionate **Frontend Developer** specializing in React.js, GSAP, and building captivating user interfaces with smooth animations and optimized performance.  
 
 ---
