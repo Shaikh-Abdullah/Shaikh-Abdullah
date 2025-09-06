@@ -3,7 +3,16 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Shaikh-Abdullah&label=Profile%20Views&color=0e75b6&style=flat)  
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Shaikh-Abdullah.Shaikh-Abdullah)  
 
-🚀 A passionate **Frontend Developer** specializing in React.js, GSAP, and building captivating user interfaces with smooth animations and optimized performance.  
+## 👨‍💻 Frontend Developer | React.js | GSAP  
+🚀 Building modern, interactive & high-performance web apps  
+
+---
+
+## 🌐 Connect With Me  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdullah-portfolio-iota.vercel.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/abdullah-shaikh-028076244)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shabdullxh68.5@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shaikh-Abdullah)  
 
 ---
 
@@ -13,9 +22,6 @@
 🤝 I’m looking for help with **advanced performance optimization and mastering backend integrations**  
 🌱 I’m currently learning **Next.js, TypeScript, scalable web application architecture, and backend technologies (Node.js, Express, MongoDB, Firebase)**  
 💬 Ask me about **React.js, GSAP animations, frontend performance, and creating seamless user experiences**  
-📫 How to reach me: **[Email](mailto:shabdullxh68.5@gmail.com)** | **[LinkedIn](http://linkedin.com/in/abdullah-shaikh-028076244)**  
-👨‍💻 All of my projects are available at **[GitHub](https://github.com/Shaikh-Abdullah)**  
-📄 Know about my experiences: **[Portfolio](https://abdullah-portfolio-iota.vercel.app/)**  
 
 ---
 
@@ -67,7 +73,7 @@
 🎮 **Hobbies:** Exploring new tech, UI/UX design, football, gaming, and reading about business & psychology.  
 ⚡ **Fun Fact:** I can spend hours perfecting a single animation until it feels *just right*!  
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">  
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">  
 
 ---
 
