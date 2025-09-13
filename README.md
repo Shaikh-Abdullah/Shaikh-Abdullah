@@ -48,22 +48,7 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shaikh-Abdullah&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikh-Abdullah&layout=compact&theme=tokyonight)  
-
----
-
-## 🔥 Contribution Streak  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shaikh-Abdullah&theme=tokyonight)  
-
----
-
-## 📈 Activity Graph  
-
-![Abdullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shaikh-Abdullah&theme=tokyo-night)  
 
 ---
 
