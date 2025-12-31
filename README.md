@@ -57,7 +57,6 @@ I enjoy crafting interfaces that feel **fast, intuitive, and delightful**.
 <p>
   <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-FACC15?style=for-the-badge&logo=javascript&logoColor=000"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -78,13 +77,6 @@ I enjoy crafting interfaces that feel **fast, intuitive, and delightful**.
   <img src="https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/WordPress-1E40AF?style=for-the-badge&logo=wordpress&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Insights  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikh-Abdullah&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
