@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Abdullah Shaikh  
 
-### 👨‍💻 Front-End Engineer | React.js | Next.js | React Native  
+### 👨‍💻 Front-End Engineer | React.js | Next.js  
 📍 **Dubai, UAE** &nbsp;•&nbsp; 🚀 **Available for Immediate Joining**
 
 <img src="https://komarev.com/ghpvc/?username=Shaikh-Abdullah&label=Profile%20Views&color=0ea5e9&style=flat" />
