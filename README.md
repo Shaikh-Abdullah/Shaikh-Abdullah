@@ -58,11 +58,6 @@ I enjoy working on products where **performance, UX, and clean code** matter.
 
 ---
 
-## 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikh-Abdullah&layout=compact&theme=tokyonight)
-
----
-
 ## 🎉 Fun Stuff  
 ✨ **Favorite Quote:** *"Code is like humor. When you have to explain it, it’s bad."*  
 🎮 **Hobbies:** UI/UX design, exploring new tech, football, gaming, business & psychology  
