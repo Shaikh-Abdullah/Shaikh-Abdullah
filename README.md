@@ -129,7 +129,7 @@ My experience spans **frontend architecture, REST APIs, real-time applications, 
 │           ↓                         │
 │  React.js · Next.js · TypeScript    │
 │           ↓                         │
-│  State & Data Management             │
+│  State & Data Management            │
 │           ↓                         │
 │  REST APIs · Socket.io              │
 │           ↓                         │
