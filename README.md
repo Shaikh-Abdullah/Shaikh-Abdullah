@@ -6,7 +6,7 @@
 
 **Building scalable, high-performance web experiences.**
 
-📍 **Dubai, UAE** · 💼 **Available Immediately**
+📍 **Dubai, UAE**
 
 <p>
   <a href="https://abdullahportfolio-silk.vercel.app/">
