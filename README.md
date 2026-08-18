@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Abdullah Shaikh  
 
 ### 👨‍💻 Front-End Engineer | React.js | Next.js  
-📍 **Dubai, UAE** &nbsp;•&nbsp;
+📍 **Dubai, UAE**
 
 <img src="https://komarev.com/ghpvc/?username=Shaikh-Abdullah&label=Profile%20Views&color=0ea5e9&style=flat" />
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Shaikh-Abdullah.Shaikh-Abdullah" />
