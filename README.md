@@ -1,11 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Abdullah Shaikh
+# Hi, I'm Abdullah Shaikh
 
-### Full Stack Developer | React.js • Next.js • Node.js
+### Full Stack Developer · React.js · Next.js · Node.js
 
-📍 **Dubai, UAE**
-💼 **Available Immediately**
+**Building scalable, high-performance web experiences.**
+
+📍 **Dubai, UAE** · 💼 **Available Immediately**
 
 <p>
   <a href="https://abdullahportfolio-silk.vercel.app/">
@@ -28,7 +29,7 @@
 
 ---
 
-## 🚀 About Me
+## ▸ About Me
 
 I'm a **Full Stack Developer with 3+ years of professional experience** building scalable, high-performance web applications using **React.js, Next.js, Node.js, TypeScript, and MongoDB**.
 
@@ -36,37 +37,37 @@ I enjoy turning complex requirements and Figma designs into **clean, production-
 
 My experience spans **frontend architecture, REST APIs, real-time applications, e-commerce platforms, payment integrations, AI-powered applications, and performance optimization**.
 
-### 💡 What I Bring
+### What I Bring
 
-* ⚛️ Build scalable **React.js & Next.js** applications
-* 🧩 Design reusable frontend architectures and component systems
-* 🚀 Optimize applications for **performance and Core Web Vitals**
-* 🔌 Develop backend services with **Node.js & Express.js**
-* 🗄️ Work with **MongoDB, Firebase & MySQL**
-* 💳 Integrate payment and logistics platforms such as **Stripe, MyFatoorah, DHL & Quiqup**
-* 🤖 Build applications using **OpenAI APIs & Gen-AI workflows**
-* ⚡ Develop real-time experiences using **Socket.io**
-* 🎨 Convert complex **Figma designs into pixel-perfect interfaces**
-
----
-
-## 📈 Career Highlights
-
-| Achievement               | Impact                                                  |
-| ------------------------- | ------------------------------------------------------- |
-| 🏗️ Frontend Architecture | Independently architected the Damroo frontend ecosystem |
-| ⭐ Client Satisfaction     | Achieved **98% client satisfaction**                    |
-| ⚡ Performance             | Improved application load times by **25%**              |
-| 🎨 UI Development         | Reduced design-to-development gaps by **30%**           |
-| 📊 User Engagement        | Increased active platform engagement by **18%**         |
-| 💳 E-commerce             | Integrated international payment & logistics systems    |
-| 🤖 AI                     | Built Gen-AI chatbot and workflow automation solutions  |
+* **Frontend** — React.js, Next.js, TypeScript & reusable component architecture
+* **Backend** — Node.js, Express.js & RESTful APIs
+* **Performance** — Code splitting, lazy loading & Core Web Vitals
+* **Data** — MongoDB, Firebase & MySQL
+* **State** — Redux, Zustand & TanStack Query
+* **Real-time** — Socket.io & real-time communication
+* **AI** — OpenAI APIs & Gen-AI workflow automation
+* **E-commerce** — Shopify, Stripe, MyFatoorah & logistics integrations
+* **UI Engineering** — Figma to pixel-perfect production interfaces
 
 ---
 
-## 🛠️ Tech Stack
+## ▸ Career Highlights
 
-### Frontend
+|      | Achievement               | Impact                                                  |
+| :--: | ------------------------- | ------------------------------------------------------- |
+| `01` | **Frontend Architecture** | Independently architected the Damroo frontend ecosystem |
+| `02` | **Client Satisfaction**   | Achieved **98% client satisfaction**                    |
+| `03` | **Performance**           | Improved application load times by **25%**              |
+| `04` | **UI Development**        | Reduced design-to-development gaps by **30%**           |
+| `05` | **User Engagement**       | Increased active platform engagement by **18%**         |
+| `06` | **E-commerce**            | Integrated international payment & logistics systems    |
+| `07` | **AI**                    | Built Gen-AI chatbot and workflow automation solutions  |
+
+---
+
+## ▸ Tech Stack
+
+### `01` Frontend
 
 <p>
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -79,16 +80,16 @@ My experience spans **frontend architecture, REST APIs, real-time applications, 
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
-### Backend & APIs
+### `02` Backend & APIs
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 </p>
 
-### Databases & State Management
+### `03` Databases & State
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -99,7 +100,7 @@ My experience spans **frontend architecture, REST APIs, real-time applications, 
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
 </p>
 
-### AI, E-commerce & Integrations
+### `04` AI, E-commerce & Integrations
 
 <p>
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -108,7 +109,7 @@ My experience spans **frontend architecture, REST APIs, real-time applications, 
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </p>
 
-### Tools & Workflow
+### `05` Tools & Workflow
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -119,27 +120,31 @@ My experience spans **frontend architecture, REST APIs, real-time applications, 
 
 ---
 
-## ⚡ Engineering Focus
+## ▸ Engineering Focus
 
 ```text
-Frontend Architecture
-        ↓
-React.js / Next.js / TypeScript
-        ↓
-State Management & Data Fetching
-        ↓
-REST APIs / Socket.io
-        ↓
-Node.js / Express.js
-        ↓
-MongoDB / Firebase / MySQL
-        ↓
-Production Deployment & Optimization
+┌─────────────────────────────────────┐
+│                                     │
+│  Frontend Architecture              │
+│           ↓                         │
+│  React.js · Next.js · TypeScript    │
+│           ↓                         │
+│  State & Data Management             │
+│           ↓                         │
+│  REST APIs · Socket.io              │
+│           ↓                         │
+│  Node.js · Express.js               │
+│           ↓                         │
+│  MongoDB · Firebase · MySQL         │
+│           ↓                         │
+│  Performance · Scalability · UX     │
+│                                     │
+└─────────────────────────────────────┘
 ```
 
 ---
 
-## 📊 GitHub Stats
+## ▸ GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shaikh-Abdullah&show_icons=true&hide_border=true&count_private=true" height="165"/>
@@ -148,23 +153,25 @@ Production Deployment & Optimization
 
 ---
 
-## 🎯 Currently
+## ▸ Currently
 
-* 🔭 Building scalable **full-stack web applications**
-* ⚡ Deepening expertise in **Next.js, TypeScript & backend architecture**
-* 🤖 Exploring practical **Generative AI integrations**
-* 🧠 Improving application architecture and performance
-* 🤝 Open to interesting engineering opportunities and collaborations
+* Building scalable **full-stack web applications**
+* Deepening expertise in **Next.js, TypeScript & backend architecture**
+* Exploring practical **Generative AI integrations**
+* Improving application **architecture and performance**
+* Open to interesting **engineering opportunities and collaborations**
 
 ---
 
-## 📫 Let's Connect
+## ▸ Let's Connect
 
 I'm always interested in discussing **web development, product engineering, frontend architecture, AI applications and interesting technical challenges.**
 
 <div align="center">
 
-### Build. Optimize. Ship. 🚀
+### `Build. Optimize. Ship.`
+
+<br/>
 
 <a href="https://abdullahportfolio-silk.vercel.app/">
   <img src="https://img.shields.io/badge/View_My_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -172,6 +179,6 @@ I'm always interested in discussing **web development, product engineering, fron
 
 <br/><br/>
 
-⭐ **Thanks for visiting my profile!**
+**Thanks for visiting my profile.**
 
 </div>
