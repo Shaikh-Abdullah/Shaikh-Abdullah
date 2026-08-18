@@ -144,15 +144,6 @@ My experience spans **frontend architecture, REST APIs, real-time applications, 
 
 ---
 
-## ▸ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaikh-Abdullah&show_icons=true&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaikh-Abdullah&hide_border=true" height="165"/>
-</p>
-
----
-
 ## ▸ Currently
 
 * Building scalable **full-stack web applications**
